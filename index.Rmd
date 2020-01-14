@@ -1,5 +1,5 @@
 ---
-title: "Página Inicial"
+title: "Pagina Inicial"
 ---
 
 ```{r setup, include=FALSE}
